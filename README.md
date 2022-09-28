@@ -1,2 +1,2 @@
 # dentalweb
-This is a dental website (django).  website : www.dentalweb.herokuapp.com
+This is a dental website (django).  website : (https://dentalweb.herokuapp.com/)
